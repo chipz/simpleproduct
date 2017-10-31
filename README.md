@@ -4,6 +4,9 @@ Just simple restapi product management with category build with liftweb. Using m
 ## Demo
 http://kejogja.com:9090/v1/rest/api/category/detail
 
+## How to Run
+`sbt run`
+
 ## Installation and usage
 1. use sbt for compile and try to run this project
 3. build war file with "sbt packages"
